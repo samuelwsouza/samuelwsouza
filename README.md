@@ -1,5 +1,5 @@
 
-### Prazer, sou o Samuel Souza 👋
+#### Prazer, sou o Samuel Souza 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-willians-de-souza-444a6a1b4//)
 
