@@ -1,6 +1,11 @@
 
 # Prazer, sou o Samuel Souza 👋
 
+💻 Desenvolvedor front-end
+🧠 Sempre buscando atingir o próximo nível
+👨‍💻 Análise e Desenvolvimento de Sistemas no Senac
+ 📍  São Paulo
+
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=enzobsoares&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelwsouza&theme=react&hide_border=true)<br/>
