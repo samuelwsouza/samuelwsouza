@@ -1,7 +1,7 @@
 
 # Prazer, sou o Samuel Souza 👋
 
-## 📊 GitHub Stats:
+📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=enzobsoares&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelwsouza&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwsouza&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,styledcomponents,tailwind,php,mysql,html,css,)](https://skillicons.dev)
 
 Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então procuro maximizar meu conhecimento para alcançar meu objetivo.
-Me joguei em cursos para estar sempre com as ferramentas atuais do do mercado e me capacitar para isso.
+Me joguei em cursos para estar sempre com as ferramentas atuais do mercado e me capacitar para isso.
 
 Iniciei minha faculdade de Análise de Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
 conhecimento para que possa agregar em times que irei me desenvolver e como pessoa para inovar este mundo no ramo da tecnologia.
