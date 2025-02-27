@@ -16,7 +16,7 @@ Me joguei em cursos para estar sempre com as ferramentas atuais do mercado e me 
 Iniciei minha faculdade de Análise e Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
 conhecimento para alavancar minha carreira como desenvolvedor.
 
-Atualmente, sou Desenvolvedor Back-end Júnior. Em gerala tenho mais de 2 anos de estudo em programação e experiência prática na construção de aplicações web, utilizando tecnologias modernas no front e no back-end.
+Atualmente, sou Desenvolvedor Back-end Júnior. Em geral tenho mais de 2 anos de estudo em programação e experiência prática na construção de aplicações web, utilizando tecnologias modernas no front e no back-end.
 
 Minha atuação envolve a criação de APIs escaláveis, integração de serviços e estruturação de sistemas robustos, sempre focando em boas práticas, clean code e testes automatizados. Trabalho com TypeScript, Node.js, Express, NestJS, Prisma, Mongoose, Jest, entre outras tecnologias.
 
